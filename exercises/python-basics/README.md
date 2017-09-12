@@ -32,7 +32,7 @@ In this exercise you will walk through the basics of Python learning about vario
   2. Strings
       - Create a new variable **name1** and assign it a value of **"Josh"**. Print the variable to the console.
       - Create another variable **name2** and assign it a value of **'Nick'**. Print the variable to the console. 
-      - Create another variable **namme3** and assingn it a value of **"Cody'**. Print the variable to console. What happened and why?
+      - Create another variable **name3** and assingn it a value of **"Cody'**. Print the variable to console. What happened and why?
       - Create two variables **version** and **message** with values of **2.7.13** and **"I am running python % on my computer"**. Embed the version number into the message and print to console. 
       - Create variable **name4** and assign value of **"Steven"**. Print the letter **t** to the console.
       - Create variable **secret-message** with value of **"I should use a vpn to protect myself when on public wifi so I don't get hacked"**. Search the message for different words. Print to console.
