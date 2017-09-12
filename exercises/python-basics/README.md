@@ -27,14 +27,14 @@ In this exercise you will walk through the basics of Python learning about vario
    
 **DataTypes.**
   1. Numbers
-        - Create a variable **num1** with value **5.433** to an int
-        - Create a variable **num2** with value **7** to float
+        - Create a variable **num1** with value **5.433**. Change to int, print to console.
+        - Create a variable **num2** with value **7**. Change to float, print to console
   2. Strings
-       Create a new variable **name1** and assign it a value of "Josh". Print the variable to the console.
-      - Create another variable **name2** and assign it a value of 'Nick'. Print the variable to the console. 
-      - Create another variable **namme3** and assingn it a value of "Cody'. Print the variable to console. What happened and why?
+      - Create a new variable **name1** and assign it a value of **"Josh"**. Print the variable to the console.
+      - Create another variable **name2** and assign it a value of **'Nick'**. Print the variable to the console. 
+      - Create another variable **namme3** and assingn it a value of **"Cody'**. Print the variable to console. What happened and why?
       - Create two variables **version** and **message** with values of **2.7.13** and **"I am running python % on my computer"**. Embed the version number into the message and print to console. 
-      - Create variable **name4** and assign value of "Steven". Print the letter **t** to the console.
+      - Create variable **name4** and assign value of **"Steven"**. Print the letter **t** to the console.
       - Create variable **secret-message** with value of **"I should use a vpn to protect myself when on public wifi so I don't get hacked"**. Search the message for different words. Print to console.
       
    3. Lists(mutable)
@@ -49,5 +49,18 @@ In this exercise you will walk through the basics of Python learning about vario
         - Change first index to "ports.txt". What happend and why?
         - Create a nested tupal and print to console.
         
-   5. 
+   5. Dictionaries
+        - Create variable **my_computer** with at keys of **"macbook_pro", "size"** and values **2017, "15inch"**. Print to console.
+        - Print the value of the **size** key to console.
+        - Change the value of **size** to **"13inch"** print to console.
+        - Add a new key **screen** with value **"Retina"** and delete the key/value **size** from the dictionary. Print to console.
+        - Create a new dictionary that has multiple keys with values of Numbers, Strings, Lists, and Tupals. Print to console.
+        
+        
+# Resources
+
+READ THE DOCS WHEN STUCK!!!!!!!!!!
+
+[Python Docs](https://www.python.org/doc/)
+        
    
