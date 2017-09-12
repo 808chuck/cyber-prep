@@ -18,6 +18,7 @@ Prerequisites
 
 - Basic knowledge of Python
 - Basic knowledge of the `os` module
+- Basic knowledge of the `sys` module
 - Basic knowledge of Python data types
 - Basic knowledge of the `print` method
 - Basic knowledge of recursion
